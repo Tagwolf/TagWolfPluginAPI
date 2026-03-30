@@ -13,3 +13,6 @@
 - `plugins/` – Hier landen deine Plugins
 - `lib/` – Benötigte JARs (spigot.jar)
 - `out/` – Temporäre Build-Dateien
+# Beispiel (mit wget)
+wget -P lib/ https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.20.4-R0.1-SNAPSHOT/spigot-api-1.20.4-R0.1-SNAPSHOT.jar
+# WIR SIND IN DER BETA!
