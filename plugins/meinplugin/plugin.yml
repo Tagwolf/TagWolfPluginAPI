@@ -1,0 +1,9 @@
+name: MeinPlugin
+version: 1.0
+main: com.tagwolf.meinplugin.Main
+api-version: 1.13
+author: TagWolf
+
+commands:
+  hello:
+    description: Sagt Hello
